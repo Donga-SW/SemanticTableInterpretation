@@ -12,7 +12,7 @@ Open Development Platform 기반 스마트팜 구축 - 1표
 GEN-AI 기반 생산 공정 멀티모달 데이터 관리 - 1표
 실내환경을 위한 AR NAVIGATION - 1표
 
---
+---
 
 정현성
 1. 차량번호 OCR 프로그램 (문제정의서 3번)
