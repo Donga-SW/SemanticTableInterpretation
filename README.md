@@ -1,6 +1,19 @@
 # FinalCraft
 4학년 졸업작품 repo
 
+차량번호 OCR 프로그램 - 5표
+Knowledge Graph - 2표
+이미지 생성 스튜디오 - 1표
+웹페이지 품질 평가 - 2표
+임베디드 시스템에서의 딥러닝 기술 활용을 위한 FCM 에이전트 개발 - 1표
+해양 쓰레기 수거 자동화 시스템 개발 - 1표
+Open Development Platform 기반 스마트팜 구축 - 1표
+시각장애인 주식 매매 시스템 - 1표
+GEN-AI 기반 생산 공정 멀티모달 데이터 관리 - 1표
+실내환경을 위한 AR NAVIGATION - 1표
+
+--
+
 정현성
 1. 차량번호 OCR 프로그램 (문제정의서 3번)
 2. Knowledge Graph (문제정의서 6번)
