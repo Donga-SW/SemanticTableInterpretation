@@ -4,6 +4,12 @@
 
 이 모델은 의미추론, 개체연결, 관계주석, 삼항 구조를 통한 지식그래프 구축 모델입니다.
 
+
+![STI_diagram](https://github.com/hoonZeee/STI/blob/main/STI_diagram.jpg)
+
+
+
+
 ## Installation
 
 ```console
