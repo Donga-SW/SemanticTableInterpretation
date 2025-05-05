@@ -19,9 +19,13 @@
 ```console
 KorSTI/
 ├── data/
-│   ├── trained_mixed.csv
+│   ├── trained_mixed_name.csv
+│   ├── trained_mixed_activist.csv
+│   ├── trained_mixed_year.csv
+│   ├── trained_mixed_judgement.csv
+│   ├── trained_mixed_event.csv
 │   ├── informal_file.csv
-│   ├── formal.csv
+│   └── formal.csv
 │
 ├── model/
 │   ├── pretrainedModel.pt
