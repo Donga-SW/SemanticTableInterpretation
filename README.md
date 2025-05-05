@@ -8,10 +8,11 @@
 ![STI_diagram](https://github.com/hoonZeee/STI/blob/main/STI_diagram.jpg)
 
 
-##관련 링크
+## STI 개발 진행 링크
 
 
-- [STI모델연구링크](https://github.com/hoonZeee/STI)
+- [Jihoon_STI_Research](https://github.com/hoonZeee/STI)
+
 
 
 ## Installation
