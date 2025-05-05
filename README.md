@@ -14,6 +14,37 @@
 - [Jihoon_STI_Research](https://github.com/hoonZeee/STI)
 
 
+## Directory
+
+```console
+KorSTI/
+├── data/
+│   ├── trained_mixed.csv
+│   ├── informal_file.csv
+│   ├── formal.csv
+│
+├── model/
+│   ├── pretrainedModel.pt
+│   └── custom_trained.pt
+│
+├── notebooks/
+│   └── training_KoBERT.ipynb
+│
+├── scripts/
+│   ├── extract.py
+│   ├── CTA_trained.py
+│   ├── CEA.py
+│   ├── triple_generator.py
+│
+├── outputs/
+│   ├── CTA_predict.csv
+│   ├── CEA_result.csv
+│   └── triple_output.csv
+│
+├── knowledge_graph/
+│
+└── README.md
+```
 
 ## Installation
 
