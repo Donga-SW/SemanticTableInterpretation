@@ -11,7 +11,7 @@
 ##관련 링크
 
 
-- ![STI모델연구링크](https://github.com/hoonZeee/STI)
+- [STI모델연구링크](https://github.com/hoonZeee/STI)
 
 
 ## Installation
