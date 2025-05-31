@@ -1,0 +1,2 @@
+conda activate konlpy_env
+pip install konlpy
