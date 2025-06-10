@@ -106,7 +106,6 @@ optional arguments:
 ## Text_ Embedding
 
 - 파인튜닝된 pt파일을 활용하여 text_embedding 예측수행
-- 
 
 
 ```console
