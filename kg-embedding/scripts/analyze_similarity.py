@@ -24,7 +24,7 @@ entity_emb = nn.Embedding(len(entities), embedding_dim)
 entity_emb.load_state_dict(torch.load(entity_emb_path, map_location="cpu"))
 entity_emb.eval()
 
-print(f"✅ Loaded embeddings: {len(entities)} entities")
+print(f"Loaded embeddings: {len(entities)} entities")
 
 # 유사도 함수 (코사인 유사도)
 def cosine_similarity(vec1, vec2):
