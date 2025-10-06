@@ -65,9 +65,9 @@ $$
 TransE는 위 식을 만족하도록 모든 임베딩을 학습한다.
 구체적으로는, “올바른(truth) 삼중항은 가깝게”, “잘못된(negatively sampled) 삼중항은 멀게” 만드는 ranking loss를 최소화한다.
 
-[
+$$
 L = \sum_{(h, r, t) \in S} \sum_{(h', r, t') \in S'} \max(0, \gamma + d(h + r, t) - d(h' + r, t'))
-]
+$$
 
 여기서
 
