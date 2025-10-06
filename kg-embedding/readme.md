@@ -54,9 +54,9 @@ TransE (Translating Embeddings for Modeling Multi-relational Data) 은 Facebook 
 
 즉, 관계 ( r )이 존재할 때 Head ( h )와 Tail ( t ) 사이에는 다음 관계가 성립해야 한다:
 
-[
+$$
 \mathbf{h} + \mathbf{r} \approx \mathbf{t}
-]
+$$
 
 ---
 
