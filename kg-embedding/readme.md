@@ -175,14 +175,15 @@ plt.scatter(xs, ys, c=colors, s=10)
 
 ---
 
-## 10. References
+## 10 transe_embedding_visualization
+![Result](https://github.com/Donga-SW/SemanticTableInterpretation/blob/main/kg-embedding/outputs/manual_transe/transe_embedding_visualization.png)
+
+---
+
+## 11. References
 
 * Bordes et al. (2013). Translating Embeddings for Modeling Multi-relational Data.
   Advances in Neural Information Processing Systems (NeurIPS)
 * PyTorch Documentation: [https://pytorch.org](https://pytorch.org)
 * scikit-learn t-SNE: [https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
 
---
-
-## 11 transe_embedding_visualization
-![Result](https://github.com/Donga-SW/SemanticTableInterpretation/blob/main/kg-embedding/outputs/manual_transe/transe_embedding_visualization.png)
